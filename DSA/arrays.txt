@@ -1,0 +1,28 @@
+1/34: RAM
+what is a data structure?
+bits -> byte -> RAM --> Data Structures 
+
+2/34:Static array
+properties of arrays
+use indexes to access values 
+address -> read the value at that address 
+
+efficient operation => O(1) => big O of 1
+
+random access memory, randomly access any portion of memory in constant time 
+
+you can't deallocate a value in a static array
+what you're doing is overwriting the value 
+
+3/34 Dynamic arrays
+more common, more useful 
+amortized time complexity -- ?
+
+4/34: Stack
+Dynamic arrays implementation -> Stack 
+
+5/32
+Connected via pointers 
+Order in memory can be mess
+Not stored same in memory 
+
